@@ -23,4 +23,5 @@ func main() {
 	info.Name = strings.Title(info.Name)
 
 	fmt.Println(info)
+	fmt.Println("ZALUPA")
 }
